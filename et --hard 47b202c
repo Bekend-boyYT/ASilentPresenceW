@@ -1,0 +1,40 @@
+[33m53b4312[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m HEAD@{0}: checkout: moving from backup/pulled-state to main
+[33me0a2b40[m[33m ([m[1;31morigin/backup/pulled-state[m[33m, [m[1;32mbackup/pulled-state[m[33m)[m HEAD@{1}: checkout: moving from main to backup/pulled-state
+[33m53b4312[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m HEAD@{2}: reset: moving to origin/main
+[33m049cba9[m HEAD@{3}: commit: house update
+[33m06caf01[m HEAD@{4}: reset: moving to 06caf017a822e5f9404722f048fe13b30be20b3a
+[33m0e12b94[m HEAD@{5}: reset: moving to HEAD
+[33m0e12b94[m HEAD@{6}: commit: house update
+[33m06caf01[m HEAD@{7}: reset: moving to 06caf017a822e5f9404722f048fe13b30be20b3a
+[33m23ab0a8[m HEAD@{8}: reset: moving to 23ab0a8d5153c699cf359a3284aa02b2dd2b5b3a
+[33m47b202c[m HEAD@{9}: reset: moving to 47b202c671d241a6edfbe7b0226a30c8e710b442
+[33m8c18f42[m HEAD@{10}: reset: moving to HEAD
+[33m8c18f42[m HEAD@{11}: reset: moving to HEAD
+[33m8c18f42[m HEAD@{12}: commit: bug
+[33m47b202c[m HEAD@{13}: commit: fixed some bugs
+[33m23ab0a8[m HEAD@{14}: reset: moving to 23ab0a8d5153c699cf359a3284aa02b2dd2b5b3a
+[33m2371fa5[m HEAD@{15}: reset: moving to HEAD
+[33m2371fa5[m HEAD@{16}: reset: moving to HEAD
+[33m2371fa5[m HEAD@{17}: reset: moving to HEAD
+[33m2371fa5[m HEAD@{18}: checkout: moving from backup/pulled-state to main
+[33me0a2b40[m[33m ([m[1;31morigin/backup/pulled-state[m[33m, [m[1;32mbackup/pulled-state[m[33m)[m HEAD@{19}: checkout: moving from main to backup/pulled-state
+[33m2371fa5[m HEAD@{20}: reset: moving to HEAD
+[33m2371fa5[m HEAD@{21}: reset: moving to HEAD
+[33m2371fa5[m HEAD@{22}: commit: fixed some bugs
+[33m23ab0a8[m HEAD@{23}: commit: house update
+[33m06caf01[m HEAD@{24}: pull --ff --recurse-submodules --progress origin: Merge made by the 'ort' strategy.
+[33m48ac298[m HEAD@{25}: pull --ff --recurse-submodules --progress origin: Merge made by the 'ort' strategy.
+[33me1c138f[m HEAD@{26}: commit: imported files
+[33m7628374[m HEAD@{27}: commit: a lil change
+[33mfb94b6a[m HEAD@{28}: commit: A little detail change on the house
+[33m4c79811[m HEAD@{29}: commit: huis 1st floor 80% klaar
+[33m27dd208[m HEAD@{30}: commit: Huis 1ste floor 75% klaar
+[33me0a2b40[m[33m ([m[1;31morigin/backup/pulled-state[m[33m, [m[1;32mbackup/pulled-state[m[33m)[m HEAD@{31}: commit: huis 1ste floor 65% klaar
+[33mc924e59[m HEAD@{32}: commit: HUIS 40% klaar
+[33mfc65692[m HEAD@{33}: commit: binnen kant Huis maken
+[33m2e744eb[m HEAD@{34}: pull --ff --recurse-submodules --progress origin: Fast-forward
+[33m69186e5[m HEAD@{35}: pull --ff --recurse-submodules --progress origin: Fast-forward
+[33m961d5b3[m HEAD@{36}: reset: moving to HEAD
+[33m961d5b3[m HEAD@{37}: pull --ff --recurse-submodules --progress origin: Merge made by the 'ort' strategy.
+[33m47eb269[m HEAD@{38}: commit: scenes aangemaakt
+[33madd10c2[m HEAD@{39}: pull --ff --recurse-submodules --progress origin: Fast-forward
